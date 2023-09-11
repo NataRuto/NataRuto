@@ -11,5 +11,4 @@ Here are some ideas to get you started:
         https://t.me/nataliauselenok
 - 💻 Технический стек:
 REACT REDUX JAVASCRIPT NODE.JS MONGODB HTML CSS
-
 -->
