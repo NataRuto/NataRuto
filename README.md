@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 💻 Технический стек:
 REACT REDUX JAVASCRIPT NODE.JS MONGODB HTML CSS
 
+-->
