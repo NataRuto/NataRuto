@@ -4,6 +4,7 @@
 - 📫   https://www.instagram.com/nataliauselenok/
         https://t.me/nataliauselenok
 - 💻 Технический стек:
+ 
 REACT REDUX JAVASCRIPT NODE.JS MONGODB HTML CSS
 
 <!--
